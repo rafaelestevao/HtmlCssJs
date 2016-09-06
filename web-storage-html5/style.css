@@ -1,0 +1,18 @@
+button{
+	width:27.5px;
+}
+
+.btnListar,.btnSalvar,.btnApagar{
+	width:155px;
+}
+#btnLimpar{
+	width:90px;	
+}
+
+#inputResult{
+	text-align: center;
+}
+
+table.tabela tbody tr:nth-child(odd){
+	background-color: #E9E9E9;
+}
